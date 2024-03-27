@@ -1,2 +1,2 @@
 # flutter
-image asset
+image asset (MyProject)
